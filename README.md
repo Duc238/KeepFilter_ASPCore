@@ -1,0 +1,1 @@
+Project này khi chạy, điền tên sản phẩm, loại và giá vào các ô tương ứng rồi nhấn nút tìm kiếm sẽ tìm kiếm trong danh sách sản phẩm. Đặc biệt, khi reload trang lại hoặc chia sẻ URL, khi nhấn vào URL mở trang web lên sẽ giữ lại được bộ lọc tìm kiếm ban đầu. Project này được làm bằng ASP.NET Core
