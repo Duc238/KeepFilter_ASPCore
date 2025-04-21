@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\L\u1EADp tr\u00ECnh\\ASP.NET Core\\KeepFilter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3E5CAD-B802-473B-A453-901BD1D65B0B}|KeepFilter\\KeepFilter.csproj|e:\\l\u1EADp tr\u00ECnh\\asp.net core\\keepfilter\\keepfilter\\models\\productfiltermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3E5CAD-B802-473B-A453-901BD1D65B0B}|KeepFilter\\KeepFilter.csproj|solutionrelative:keepfilter\\models\\productfiltermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3E5CAD-B802-473B-A453-901BD1D65B0B}|KeepFilter\\KeepFilter.csproj|e:\\l\u1EADp tr\u00ECnh\\asp.net core\\keepfilter\\keepfilter\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3E5CAD-B802-473B-A453-901BD1D65B0B}|KeepFilter\\KeepFilter.csproj|solutionrelative:keepfilter\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3E5CAD-B802-473B-A453-901BD1D65B0B}|KeepFilter\\KeepFilter.csproj|e:\\l\u1EADp tr\u00ECnh\\asp.net core\\keepfilter\\keepfilter\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED3E5CAD-B802-473B-A453-901BD1D65B0B}|KeepFilter\\KeepFilter.csproj|solutionrelative:keepfilter\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3E5CAD-B802-473B-A453-901BD1D65B0B}|KeepFilter\\KeepFilter.csproj|e:\\l\u1EADp tr\u00ECnh\\asp.net core\\keepfilter\\keepfilter\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3E5CAD-B802-473B-A453-901BD1D65B0B}|KeepFilter\\KeepFilter.csproj|solutionrelative:keepfilter\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3E5CAD-B802-473B-A453-901BD1D65B0B}|KeepFilter\\KeepFilter.csproj|e:\\l\u1EADp tr\u00ECnh\\asp.net core\\keepfilter\\keepfilter\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ED3E5CAD-B802-473B-A453-901BD1D65B0B}|KeepFilter\\KeepFilter.csproj|solutionrelative:keepfilter\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3E5CAD-B802-473B-A453-901BD1D65B0B}|KeepFilter\\KeepFilter.csproj|e:\\l\u1EADp tr\u00ECnh\\asp.net core\\keepfilter\\keepfilter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3E5CAD-B802-473B-A453-901BD1D65B0B}|KeepFilter\\KeepFilter.csproj|solutionrelative:keepfilter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3E5CAD-B802-473B-A453-901BD1D65B0B}|KeepFilter\\KeepFilter.csproj|e:\\l\u1EADp tr\u00ECnh\\asp.net core\\keepfilter\\keepfilter\\models\\keepfiltercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3E5CAD-B802-473B-A453-901BD1D65B0B}|KeepFilter\\KeepFilter.csproj|solutionrelative:keepfilter\\models\\keepfiltercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3E5CAD-B802-473B-A453-901BD1D65B0B}|KeepFilter\\KeepFilter.csproj|e:\\l\u1EADp tr\u00ECnh\\asp.net core\\keepfilter\\keepfilter\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED3E5CAD-B802-473B-A453-901BD1D65B0B}|KeepFilter\\KeepFilter.csproj|solutionrelative:keepfilter\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\L\u1EADp tr\u00ECnh\\ASP.NET Core\\KeepFilter\\KeepFilter\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "KeepFilter\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\L\u1EADp tr\u00ECnh\\ASP.NET Core\\KeepFilter\\KeepFilter\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "KeepFilter\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T05:35:54.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\L\u1EADp tr\u00ECnh\\ASP.NET Core\\KeepFilter\\KeepFilter\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "KeepFilter\\Views\\Products\\Index.cshtml",
+              "ToolTip": "E:\\L\u1EADp tr\u00ECnh\\ASP.NET Core\\KeepFilter\\KeepFilter\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "KeepFilter\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T05:33:33.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "E:\\L\u1EADp tr\u00ECnh\\ASP.NET Core\\KeepFilter\\KeepFilter\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "KeepFilter\\Controllers\\ProductsController.cs",
+              "ToolTip": "E:\\L\u1EADp tr\u00ECnh\\ASP.NET Core\\KeepFilter\\KeepFilter\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "KeepFilter\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwBYAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T05:32:16.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KeepFilterContext.cs",
+              "DocumentMoniker": "E:\\L\u1EADp tr\u00ECnh\\ASP.NET Core\\KeepFilter\\KeepFilter\\Models\\KeepFilterContext.cs",
+              "RelativeDocumentMoniker": "KeepFilter\\Models\\KeepFilterContext.cs",
+              "ToolTip": "E:\\L\u1EADp tr\u00ECnh\\ASP.NET Core\\KeepFilter\\KeepFilter\\Models\\KeepFilterContext.cs",
+              "RelativeToolTip": "KeepFilter\\Models\\KeepFilterContext.cs",
+              "ViewState": "AgIAAAkAAAAAAIBMZHwwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T05:31:28.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\L\u1EADp tr\u00ECnh\\ASP.NET Core\\KeepFilter\\KeepFilter\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "KeepFilter\\Models\\Product.cs",
+              "ToolTip": "E:\\L\u1EADp tr\u00ECnh\\ASP.NET Core\\KeepFilter\\KeepFilter\\Models\\Product.cs",
+              "RelativeToolTip": "KeepFilter\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T05:30:52.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\L\u1EADp tr\u00ECnh\\ASP.NET Core\\KeepFilter\\KeepFilter\\Program.cs",
+              "RelativeDocumentMoniker": "KeepFilter\\Program.cs",
+              "ToolTip": "E:\\L\u1EADp tr\u00ECnh\\ASP.NET Core\\KeepFilter\\KeepFilter\\Program.cs",
+              "RelativeToolTip": "KeepFilter\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAACSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T05:28:29.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\L\u1EADp tr\u00ECnh\\ASP.NET Core\\KeepFilter\\KeepFilter\\appsettings.json",
+              "RelativeDocumentMoniker": "KeepFilter\\appsettings.json",
+              "ToolTip": "E:\\L\u1EADp tr\u00ECnh\\ASP.NET Core\\KeepFilter\\KeepFilter\\appsettings.json",
+              "RelativeToolTip": "KeepFilter\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-19T05:27:46.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductFilterModel.cs",
+              "DocumentMoniker": "E:\\L\u1EADp tr\u00ECnh\\ASP.NET Core\\KeepFilter\\KeepFilter\\Models\\ProductFilterModel.cs",
+              "RelativeDocumentMoniker": "KeepFilter\\Models\\ProductFilterModel.cs",
+              "ToolTip": "E:\\L\u1EADp tr\u00ECnh\\ASP.NET Core\\KeepFilter\\KeepFilter\\Models\\ProductFilterModel.cs",
+              "RelativeToolTip": "KeepFilter\\Models\\ProductFilterModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T05:03:42.203Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

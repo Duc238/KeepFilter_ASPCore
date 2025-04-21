@@ -1,0 +1,35 @@
+﻿@model IEnumerable<KeepFilter.Models.Product>
+@{
+    var filter = ViewBag.Filter as KeepFilter.Models.ProductFilterModel;
+}
+
+<h2>Danh sách sản phẩm</h2>
+
+<form method="get" action="">
+    <input type="text" name="Name" value="@filter?.Name" placeholder="Tên sản phẩm" />
+    <input type="text" name="Category" value="@filter?.Category" placeholder="Loại" />
+    @* <input type="number" name="PriceFrom" value="@filter?.PriceFrom" placeholder="Giá từ" />
+    <input type="number" name="PriceTo" value="@filter?.PriceTo" placeholder="Giá đến" /> *@
+    <input type="number" name="Price" value="@filter?.Price" placeholder="Giá" />
+    <button type="submit">Tìm kiếm</button>
+</form>
+
+<table border="1" cellpadding="5" cellspacing="0">
+    <thead>
+        <tr>
+            <th>Tên</th>
+            <th>Loại</th>
+            <th>Giá</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.Category</td>
+                <td>@item.Price</td>
+            </tr>
+        }
+    </tbody>
+</table>
